@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925543585620",
+    "project_id": "fstcall555555",
+    "storage_bucket": "fstcall555555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925543585620:android:2e93c43b7de85db01a5ac1",
+        "android_client_info": {
+          "package_name": "com.chatapp.fstcall55"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925543585620-i89ukaidodd08s2h7o9a0ms53rhvcrgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapp.fstcall55",
+            "certificate_hash": "b05a45fb18cdf14246d28547b0a82fd4ab337597"
+          }
+        },
+        {
+          "client_id": "925543585620-hr4aiulgb3aormgai3a1capevn171l89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYCpkc-1ptErC59eCMX3SB1Z_bIf74Zyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925543585620-hr4aiulgb3aormgai3a1capevn171l89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
